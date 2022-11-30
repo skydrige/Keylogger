@@ -1,8 +1,6 @@
+#KEYLOGGER
 <html>
 	<head>
-		<title>
-			<strong>KEYLOGGER</strong>
-		</title>
 		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body class="BODY">
