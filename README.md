@@ -3,9 +3,10 @@ This keylogger works with the back door that will created when you execute it...
 
 <html>
 	<head>
-		<h3>
+		<title>
 			<strong>KEYLOGGER</strong>
-		</h3>
+		</title>
+		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body class="BODY">
 		<article class="Link to Log">
