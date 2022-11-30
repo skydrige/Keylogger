@@ -1,6 +1,3 @@
-# Keylogger
-This keylogger works with the back door that will created when you execute it...
-
 <html>
 	<head>
 		<title>
