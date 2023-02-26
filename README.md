@@ -1,6 +1,6 @@
 <html>
-	<title>Keylogger</title>
 	<head> THIS IS A KEYLOGGER
+		<title>Keylogger</title>
 		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body class="BODY">
