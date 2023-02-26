@@ -1,6 +1,5 @@
 <html>
-	<title>Keylogger</title>
-	<head> THIS IS A KEYLOGGER
+	<head> THIS IS A KEYLOGGER MADE BY ULTIMATE LOKESH
 		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body class="BODY">
