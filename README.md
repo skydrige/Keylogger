@@ -1,4 +1,7 @@
-THIS IS A KEYLOGGER
+THIS IS A **KEYLOGGER**
+>Install Python3.12<br>
+pip3 install pynput<br>
+run python3 keylogger.py
 
 <html>
 	<head> 
